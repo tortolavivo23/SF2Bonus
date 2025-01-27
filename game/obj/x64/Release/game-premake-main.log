@@ -1,0 +1,51 @@
+﻿  Car.cpp
+  Character.cpp
+  Ken.cpp
+  GlobalGameDefines.cpp
+  AudioManager.cpp
+  GameManager.cpp
+  TexturesManager.cpp
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Game\Managers\TexturesManager.cpp(49,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  CrouchState.cpp
+  IdleState.cpp
+  JumpUpState.cpp
+  LightPunchCrouchState.cpp
+  LightPunchState.cpp
+  MediumPunchState.cpp
+  WalkBackwardState.cpp
+  WalkForwardState.cpp
+  Screen.cpp
+  ScreenBonus.cpp
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenBonus.cpp(50,93): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenBonus.cpp(50,46): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  ScreenEnding.cpp
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenEnding.cpp(44,113): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenEnding.cpp(44,49): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenEnding.cpp(47,115): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenEnding.cpp(47,50): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenEnding.cpp(52,141): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenEnding.cpp(52,63): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenEnding.cpp(53,147): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenEnding.cpp(53,66): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  ScreenGameplay.cpp
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenGameplay.cpp(37,65): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenGameplay.cpp(37,38): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenGameplay.cpp(38,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenGameplay.cpp(41,61): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenGameplay.cpp(41,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  ScreenLogo.cpp
+  Generando código...
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Game\Managers\TexturesManager.cpp(41,1): warning C4715: 'TextureManager::GetTexture': no todas las rutas de acceso de control devuelven un valor
+  Compilando...
+  ScreenOptions.cpp
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenOptions.cpp(41,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenOptions.cpp(42,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenOptions.cpp(43,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenOptions.cpp(44,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenOptions.cpp(45,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenOptions.cpp(49,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  ScreenTitle.cpp
+C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\game\src\Menu\ScreenTitle.cpp(48,45): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  StreetFighter2.cpp
+  Generando código...
+  game-premake-main.vcxproj -> C:\Users\VSPC\Desktop\UOC\Segundo Cuatrimestre\ProgramacionGrafica\Segunda entrega\game-premake-main\bin\Release\game-premake-main.exe

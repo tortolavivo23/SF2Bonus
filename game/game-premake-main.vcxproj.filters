@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{21EB8090-0D4E-1035-B6D3-48EBA215DCB7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E9C7FDCE-D52A-8D73-7EB0-C5296AF258F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Menu">
+      <UniqueIdentifier>{e41e3abf-4402-44f9-9041-6812fd379051}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game">
+      <UniqueIdentifier>{f3744cee-e675-4d6d-9309-754b46027869}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Characters">
+      <UniqueIdentifier>{c709c4b7-4819-4774-9e94-48b9f5e1e116}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Managers">
+      <UniqueIdentifier>{fe022e3c-5328-4015-847b-90157322826a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\States">
+      <UniqueIdentifier>{dc63e166-c5f9-484c-b7bc-de10f5e2bb5b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Menu\Screen.h">
+      <Filter>Source Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Menu\ScreenEnding.h">
+      <Filter>Source Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Menu\ScreenGameplay.h">
+      <Filter>Source Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Menu\ScreenLogo.h">
+      <Filter>Source Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Menu\ScreenOptions.h">
+      <Filter>Source Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Menu\ScreenTitle.h">
+      <Filter>Source Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Menu\StateMachineMngr.h">
+      <Filter>Source Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\GlobalGameDefines.h">
+      <Filter>Source Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\Characters\Character.h">
+      <Filter>Source Files\Game\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\Characters\Ken.h">
+      <Filter>Source Files\Game\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\Managers\AudioManager.h">
+      <Filter>Source Files\Game\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\Managers\GameManager.h">
+      <Filter>Source Files\Game\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\Managers\TexturesManager.h">
+      <Filter>Source Files\Game\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\States\CharacterState.h">
+      <Filter>Source Files\Game\States</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\States\IdleState.h">
+      <Filter>Source Files\Game\States</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\States\WalkForwardState.h">
+      <Filter>Source Files\Game\States</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\States\WalkBackwardState.h">
+      <Filter>Source Files\Game\States</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\States\JumpUpState.h">
+      <Filter>Source Files\Game\States</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\States\CrouchState.h">
+      <Filter>Source Files\Game\States</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\States\LightPunchState.h">
+      <Filter>Source Files\Game\States</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\States\MediumPunchState.h">
+      <Filter>Source Files\Game\States</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\States\LightPunchCrouchState.h">
+      <Filter>Source Files\Game\States</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Menu\ScreenBonus.h">
+      <Filter>Source Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game\Characters\Car.h">
+      <Filter>Source Files\Game\Characters</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\StreetFighter2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Menu\Screen.cpp">
+      <Filter>Source Files\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Menu\ScreenEnding.cpp">
+      <Filter>Source Files\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Menu\ScreenGameplay.cpp">
+      <Filter>Source Files\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Menu\ScreenLogo.cpp">
+      <Filter>Source Files\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Menu\ScreenOptions.cpp">
+      <Filter>Source Files\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Menu\ScreenTitle.cpp">
+      <Filter>Source Files\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\GlobalGameDefines.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\Characters\Character.cpp">
+      <Filter>Source Files\Game\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\Characters\Ken.cpp">
+      <Filter>Source Files\Game\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\Managers\AudioManager.cpp">
+      <Filter>Source Files\Game\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\Managers\GameManager.cpp">
+      <Filter>Source Files\Game\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\Managers\TexturesManager.cpp">
+      <Filter>Source Files\Game\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\States\IdleState.cpp">
+      <Filter>Source Files\Game\States</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\States\WalkForwardState.cpp">
+      <Filter>Source Files\Game\States</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\States\WalkBackwardState.cpp">
+      <Filter>Source Files\Game\States</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\States\JumpUpState.cpp">
+      <Filter>Source Files\Game\States</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\States\CrouchState.cpp">
+      <Filter>Source Files\Game\States</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\States\LightPunchState.cpp">
+      <Filter>Source Files\Game\States</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\States\MediumPunchState.cpp">
+      <Filter>Source Files\Game\States</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\States\LightPunchCrouchState.cpp">
+      <Filter>Source Files\Game\States</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Menu\ScreenBonus.cpp">
+      <Filter>Source Files\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game\Characters\Car.cpp">
+      <Filter>Source Files\Game\Characters</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
